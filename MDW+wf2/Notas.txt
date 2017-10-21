@@ -1,0 +1,4 @@
+﻿Datos de web service
+username = middleware@htk-id.com
+password = Middleware2015!
+token = 
