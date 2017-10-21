@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PrintersConfigManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <printers>
+    <printer>
+      <name>Impresora 1</name>
+      <alias>I1</alias>
+    </printer>
+    <printer>
+      <name>uno</name>
+      <alias>aliasUno</alias>
+    </printer>
+  </printers>
+  <file>C:\Users\ingga\Documents\HTK\General\MDW-wf\MDW+wf\MDW+wf2\bin\Debug\etiqueta_base.lbl</file>
+  <webService>false</webService>
+  <webSocket>false</webSocket>
+  <prefix>jh</prefix>
+  <adjust>0</adjust>
+</PrintersConfigManager>

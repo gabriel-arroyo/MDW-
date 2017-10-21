@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConnectedImage>2</ConnectedImage>
+  <DisconnectedImage>0</DisconnectedImage>
+  <ConnectingImage>1</ConnectingImage>
+  <Activated>true</Activated>
+  <WebServiceURL />
+  <UserId>583e1e4793c6d4106ca77824</UserId>
+  <User>a@a.com</User>
+  <Password>asdf</Password>
+  <MacAddress>303A64307573</MacAddress>
+  <UserURL />
+  <MaxHardware>6</MaxHardware>
+  <SQLServer />
+  <SQLDatabase />
+  <SQLUser />
+  <SQLPassword />
+  <SocketIP>192.168.1.67</SocketIP>
+  <SocketPort>503</SocketPort>
+  <CSVPath />
+  <XMLPath />
+  <LabelPath />
+  <Token>RDRHGQ2IbWRvx9Tq38YtUNOJu2024TNR0KywIvS25DtivnFwRrtNkGSm-Cq45oa-gWjuDNyVpqpIuktrT6p6jop8W2JIiQonFu-pJ_hpEQd977yHEZQJOOv3NzC7SsGH3wRyMgm6y6YwjrBF7WBZZYXN8EbXXs254tvvYWYRKYLevsc4rIEjytaz7v0tv87LVmfi4DIc_DvcaJzpF9JYz03cfN40oSLQfA3NtJYLAEYkSz7jaIiJ1hBA37iP2qMh_9JWXH5RNQGyWTzmQFl2lMbbuDN6swxBjTAPjZbdYvVHcL1U5r1eGspzLVlMO5LZqcsjakQKjOW_cE7i37NONAczPJFo1pJ101rPqkerwit3VAdZCjrajZDpRzhwXgmNdFm_Wpog-v3RfxaLyx3p8nkCoXPXEyeR0g-5o-yvAMU2wNpsQvPoo1CaCCkRBxLNQn6JU5-Nt_Fq91UeHYuedDtFKRu4oiVAj0iADtPGAAJw3njxewzPwauvhb2_uE10</Token>
+</ConfigManager>

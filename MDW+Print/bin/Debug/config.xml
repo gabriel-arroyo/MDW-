@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <firstUse>false</firstUse>
+  <ConnectedImage>2</ConnectedImage>
+  <DisconnectedImage>0</DisconnectedImage>
+  <ConnectingImage>1</ConnectingImage>
+  <Activated>true</Activated>
+  <WebServiceURL>http://localhost:80/</WebServiceURL>
+  <UserId>57ae02f69c3bd1940c0ebfd8</UserId>
+  <User>middleware@htk-id.com</User>
+  <Password>Middleware2016!</Password>
+  <MacAddress>303A64307574</MacAddress>
+  <UserURL />
+  <MaxHardware>6</MaxHardware>
+  <SQLServer />
+  <SQLDatabase />
+  <SQLUser />
+  <SQLPassword />
+  <SocketIP>187.217.230.70</SocketIP>
+  <SocketPort>503</SocketPort>
+  <CSVPath />
+  <XMLPath />
+  <LabelPath />
+  <PublishSQL>false</PublishSQL>
+  <PublishAssetsApp>false</PublishAssetsApp>
+  <PublishCSV>false</PublishCSV>
+  <PublishXML>false</PublishXML>
+  <PublishWebService>false</PublishWebService>
+  <PublishWebSocket>true</PublishWebSocket>
+  <EraseTime>6</EraseTime>
+  <WaitTime>1</WaitTime>
+  <Token />
+</ConfigManager>

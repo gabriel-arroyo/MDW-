@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PrintersConfigManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <printers>
+    <printer>
+      <name>ZDesigner R110Xi 200DPI</name>
+      <alias>1</alias>
+    </printer>
+    <printer>
+      <name>ZDesigner R110Xi 200DPI (2)</name>
+      <alias>2</alias>
+    </printer>
+  </printers>
+  <file>C:\Instaladores\HTK\MDW+20170705\etiqueta_base.lbl</file>
+  <webService>false</webService>
+  <webSocket>true</webSocket>
+  <prefix>jh</prefix>
+  <adjust>0</adjust>
+</PrintersConfigManager>

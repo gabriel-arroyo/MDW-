@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:40 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173740000001</epc>
+  <rssi>91</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:41 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173741000001</epc>
+  <rssi>53</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:42 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173742000001</epc>
+  <rssi>80</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:43 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173743000001</epc>
+  <rssi>43</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:44 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173744000001</epc>
+  <rssi>70</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:45 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173745000001</epc>
+  <rssi>32</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:46 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173746000001</epc>
+  <rssi>59</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:47 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173747000001</epc>
+  <rssi>86</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:48 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173748000001</epc>
+  <rssi>49</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:49 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173749000001</epc>
+  <rssi>76</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>
+<?xml version="1.0" encoding="utf-16"?>
+<Tag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <timestamp>10/10/2016 05:37:50 p. m.</timestamp>
+  <ip>0.01</ip>
+  <epc>AAAA20161010173750000001</epc>
+  <rssi>38</rssi>
+  <direction>-1</direction>
+  <erasetime>5</erasetime>
+</Tag>

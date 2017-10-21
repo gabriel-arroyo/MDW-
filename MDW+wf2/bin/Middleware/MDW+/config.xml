@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <firstUse>false</firstUse>
+  <ConnectedImage>2</ConnectedImage>
+  <DisconnectedImage>0</DisconnectedImage>
+  <ConnectingImage>1</ConnectingImage>
+  <Activated>false</Activated>
+  <WebServiceURL />
+  <UserId />
+  <User>middleware@htk-id.com</User>
+  <Password>Middleware2016!</Password>
+  <MacAddress>3417EB5F9716</MacAddress>
+  <UserURL />
+  <MaxHardware>6</MaxHardware>
+  <SQLServer>INNOVATION\SQLEXPRESS</SQLServer>
+  <SQLDatabase>MDW</SQLDatabase>
+  <SQLUser>sa</SQLUser>
+  <SQLPassword>htk00</SQLPassword>
+  <SocketIP />
+  <SocketPort>0</SocketPort>
+  <CSVPath />
+  <XMLPath>C:\Users\Eleazar\Desktop</XMLPath>
+  <LabelPath />
+  <Token />
+</ConfigManager>
