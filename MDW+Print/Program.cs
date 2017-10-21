@@ -10,9 +10,9 @@ namespace MDW_Print
     {
         public static ConfigManager configManager;
         public static PrintersConfigManager printersConfigManager;
-        public static string mdwEmail = "middleware@htk-id.com";
-        public static string mdwPwd = "Middleware2016!";
-        public static string mdwURL = "http://webservice.assetsapp.com/mdw";
+        //public static string mdwEmail = "middleware@htk-id.com";
+        //public static string mdwPwd = "Middleware2016!";
+        //public static string mdwURL = "http://187.217.230.70/";
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>

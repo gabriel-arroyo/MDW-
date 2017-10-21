@@ -69,7 +69,11 @@ namespace MDW_wf
             }
             if (count == 0) configManager.firstUse = true;
             else configManager.firstUse = false;
-            if (count < 15 || configManager.Activated)
+            //if (count < 15 || configManager.Activated)
+            //For always active
+            configManager.Activated = true;
+            count = 1;
+            if(true)
             {
                 try
                 {

@@ -22,7 +22,7 @@ namespace MDW_Print
     {
         public System.Timers.Timer WebServiceTimer = new System.Timers.Timer(500);
         public MDWRestClient restClient;
-        public PrintSocketServer socketServer = new PrintSocketServer(503);
+        public PrintSocketServer socketServer = new PrintSocketServer(504);
         public string token = "";
         public string id = "";
         public Print()

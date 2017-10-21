@@ -142,6 +142,10 @@ namespace MDW_wf
                         + "\\MDW+Print.exe";
                 Process.Start(path);
             }
+            else
+            {
+                lbStatus.Text = "El módulo de impresión no se pudo cargar. El usuario no está registrado";
+            }
         }
 
         private void LoadAntennas()
@@ -296,9 +300,10 @@ namespace MDW_wf
         {
 
             lbStatus.Text = "Módulo de impresión";
-            string path = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location)
-                + "\\MDW+Print.exe";
-            Process.Start(path);
+            //string path = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location)
+            //    + "\\MDW+Print.exe";
+            //Process.Start(path);
+            LoadPrinters();
         }
         private void btConfigurationTab_Click(object sender, EventArgs e)
         {
